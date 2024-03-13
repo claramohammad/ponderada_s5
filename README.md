@@ -10,3 +10,7 @@ O código PHP é parte de uma aplicação web simples que interage com um banco 
 A segunda parte do código é um formulário HTML que permite ao usuário inserir informações sobre um novo empregado, como nome, endereço, data de nascimento, email e área de trabalho. Após o preenchimento, o formulário pode ser submetido para adicionar os dados fornecidos à tabela EMPLOYEES no banco de dados. Após a submissão, a página é recarregada e os novos dados podem ser processados e adicionados ao banco.
 
 A última parte do código exibe os dados atualmente armazenados na tabela EMPLOYEES, realizando uma consulta ao banco de dados para buscar todas as linhas existentes e exibindo-as em uma tabela HTML. Para cada linha retornada pela consulta, os dados de cada empregado são mostrados em linhas separadas da tabela. Este conjunto de operações demonstra a eficácia da aplicação em gerenciar dados de forma dinâmica, evidenciando a integração bem-sucedida entre a instância EC2, o MariaDB na RDS e a aplicação web desenvolvida.
+
+## Vídeo demonstrando funcionamento
+
+[Vídeo com demonstração do funcionamento](https://drive.google.com/file/d/1Y9CG0AnqVG6I8w7sNSEfnhcqq67KqDze/view?usp=sharing)
